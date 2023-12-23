@@ -1,0 +1,14 @@
+.inner{
+    display: flex;
+}
+
+.top{
+    width: 100%;
+    max-width: 1300px;
+}
+
+.toprated-carousel{
+    cursor: grab;
+    overflow: hidden;
+}
+

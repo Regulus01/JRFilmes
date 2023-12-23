@@ -1,0 +1,18 @@
+.star svg{
+    color: gold;
+}
+
+.capa {
+    border-radius: 8px;
+    transition: transform 0.8s;
+    cursor: pointer;
+ 
+}
+
+.capa:hover {
+    transform: scale(1.1);
+}
+
+.row{
+    padding: 10px
+}
